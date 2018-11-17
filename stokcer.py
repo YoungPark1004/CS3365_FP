@@ -11,4 +11,4 @@ class stocker_interface:
     def display_quantity(quantity):
         
         
-    def prompt_stocker_item_information():
+    def prompt_stocker_item_information():  
